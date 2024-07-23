@@ -1,1 +1,2 @@
-# file based routing /filepath
+# file based routing 
+`pages/vault/filename.md`
